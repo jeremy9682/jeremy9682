@@ -1,44 +1,56 @@
 # Jeremy
 
 <p align="center">
-  <strong>Building AI x DeFi products, automation systems, and trading infrastructure.</strong>
+  <strong>Building AI-native products for markets, automation, and execution.</strong>
 </p>
 
 <p align="center">
-  From idea to production across AI agents, execution workflows, and developer-facing tools.
+  I’m interested in products that don’t stop at insight — they move from intent to action, with real workflows, real infrastructure, and real constraints.
 </p>
 
-## What I work on
+## Vision
 
-- AI-native products with practical automation at the core
-- DeFi and trading infrastructure that can actually run in production
-- Full-stack systems spanning frontend, backend, APIs, data flows, and ops
+I believe the next generation of software will be less about dashboards and more about execution.
+
+The products worth building sit at the intersection of:
+- intelligence that can understand context
+- systems that can execute safely
+- interfaces that make complex workflows usable
+
+That’s the direction I’m building toward across AI, DeFi, and automation.
+
+## What I’m building
+
+- AI trading and market products
+- DeFi execution and routing infrastructure
+- automation systems that compress idea → launch → iteration
+- full-stack products that can move from prototype to production
 
 ## Selected Work
 
-| Project | What it does | Stack |
+| Project | Product angle | Stack |
 | --- | --- | --- |
-| [PromptTrading-open](https://github.com/jeremy9682/PromptTrading-open) | Open-source AI trading platform for prediction markets and crypto perpetuals. Turns natural language into executable trading workflows. | React, TypeScript, Node.js, Prisma, PostgreSQL |
-| [cfmmrouter_demo](https://github.com/jeremy9682/cfmmrouter_demo) | Go implementation of optimal CFMM routing and arbitrage search for DeFi pools, built around offline path optimization and exact arithmetic. | Go, DeFi, Optimization |
-| [ai-video-generator](https://github.com/jeremy9682/ai-video-generator) | Backend wrapper for AI text-to-video and image-to-video generation workflows. | Node.js, Express |
-| [ai-website-generator](https://github.com/jeremy9682/ai-website-generator) | GPT-powered website generator for launching crypto and meme-token landing pages quickly. | Node.js, Express, EJS, OpenAI |
-| [token-filter](https://github.com/jeremy9682/token-filter) | Real-time token monitoring and filtering pipeline for discovery, triage, and distribution. | Node.js, Redis, Telegram, OpenAI |
-| [dynadot-auto-buy](https://github.com/jeremy9682/dynadot-auto-buy) | Domain registration and DNS automation for fast-moving product and launch workflows. | Node.js, API Automation |
+| [PromptTrading-open](https://github.com/jeremy9682/PromptTrading-open) | Open-source AI trading product that turns natural language into strategy, monitoring, and execution workflows across prediction markets and crypto perpetuals. | React, TypeScript, Node.js, Prisma, PostgreSQL |
+| [cfmmrouter_demo](https://github.com/jeremy9682/cfmmrouter_demo) | DeFi routing and arbitrage infrastructure prototype focused on optimal path search, exact arithmetic, and execution logic. | Go, DeFi, Optimization |
+| [ai-video-generator](https://github.com/jeremy9682/ai-video-generator) | AI video generation backend wrapper that can serve as the foundation for creator and automation workflows. | Node.js, Express |
+| [ai-website-generator](https://github.com/jeremy9682/ai-website-generator) | Fast-launch website generation tool for crypto and meme-token products. | Node.js, Express, EJS, OpenAI |
+| [token-filter](https://github.com/jeremy9682/token-filter) | Real-time token discovery, filtering, and distribution pipeline for high-volume crypto information flows. | Node.js, Redis, Telegram, OpenAI |
+| [dynadot-auto-buy](https://github.com/jeremy9682/dynadot-auto-buy) | Domain acquisition and DNS automation tooling for fast-moving launch and growth workflows. | Node.js, API Automation |
 
-## Current Themes
+## What I care about
 
-- AI agents and workflow automation
-- Trading systems and execution infrastructure
-- Developer tools and internal platforms
-- Fast product iteration with clear operational boundaries
+- sharp product value, not just technical novelty
+- speed without losing operational clarity
+- systems that can scale from scripts into products
+- AI systems with real execution leverage
+
+## Current Direction
+
+Right now I’m especially interested in:
+- AI agents that move from analysis to execution
+- non-custodial trading infrastructure and strategy surfaces
+- products that combine model intelligence, risk controls, and real-world action
 
 ## Stack
 
 `TypeScript` `JavaScript` `Node.js` `React` `Python` `Go` `Rust` `PostgreSQL` `Redis` `OpenAI`
-
-## How I like to build
-
-- useful > flashy
-- speed with clear product edges
-- systems that stay simple enough to operate
-- products that connect AI capability with real execution
